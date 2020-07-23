@@ -17,6 +17,7 @@ https://github.com/youmts/credit-card-form
 - お手本： https://github.com/muhammederdem/vue-interactive-paycard
 - Vue.js + typescript
 - github actions を使ってデプロイ
-- カードをひっくり返すところまではできていない
+- Vuelidate でバリデーション
+- カードをひっくり返すところはできていない
 - vue部分の制作時間4-5時間
 
