@@ -1,8 +1,10 @@
 ## クレジットカード入力フォーム
 
+[フロントエンドのコーディング課題](https://qiita.com/baby-degu/items/d68e52a0727248ba2750)から。
+
 ### イメージ
 
-![credit-card-form-image](https://user-images.githubusercontent.com/8408731/88343247-f434e480-cd7b-11ea-8e44-18b9b9de8db7.gif)
+![credit-card-form-image](https://user-images.githubusercontent.com/8408731/88343728-02373500-cd7d-11ea-8609-0c6ab0364e13.gif)
 
 ### 実物
 
