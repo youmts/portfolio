@@ -19,5 +19,5 @@ https://github.com/youmts/credit-card-form
 - github actions を使ってデプロイ
 - Vuelidate でバリデーション
 - カードをひっくり返すところはできていない
-- vue部分の制作時間4-5時間
+- vue部分の制作時間5-6時間
 
