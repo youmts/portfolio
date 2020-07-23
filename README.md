@@ -4,7 +4,7 @@
 
 ### イメージ
 
-![credit-card-form-image](https://user-images.githubusercontent.com/8408731/88343728-02373500-cd7d-11ea-8609-0c6ab0364e13.gif)
+![credit-card-form-image](https://user-images.githubusercontent.com/8408731/88344054-c3ee4580-cd7d-11ea-87ce-188270da567e.gif)
 
 ### 実物
 
