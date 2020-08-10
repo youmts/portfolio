@@ -4,10 +4,10 @@
 
 https://github.com/youmts/atcoder
 
-- すべてruby
+- [abc118/d.rb](https://github.com/youmts/atcoder/blob/master/abc118/d.rb) のような一回層下に解答のソースを配置（すべてruby,アルファベット順に難易度が上がる）
+- ソースの先頭に問題文へのリンクあり
 - 8回参加してレート1052 https://atcoder.jp/users/youmts
-- プログラミングコンテストを想定しているので可読性は良くない
-- プロダクトコードではこれにテストコードを追加してリファクタリングする
+- プログラミングコンテストなので可読性は良くない
 
 ## 都道府県別総人口のチャート表示
 
