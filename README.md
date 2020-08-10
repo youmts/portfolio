@@ -4,7 +4,7 @@
 
 https://github.com/youmts/atcoder
 
-- [abc118/d.rb](https://github.com/youmts/atcoder/blob/master/abc118/d.rb) のような一回層下に解答のソースを配置（すべてruby,アルファベット順に難易度が上がる）
+- [abc118/d.rb](https://github.com/youmts/atcoder/blob/master/abc118/d.rb) のように一回層下に解答のソースを配置（すべてruby,アルファベット順に難易度が上がる）
 - ソースの先頭に問題文へのリンクあり
 - 8回参加してレート1052 https://atcoder.jp/users/youmts
 - プログラミングコンテストなので可読性は良くない
@@ -26,7 +26,7 @@ https://github.com/youmts/resas-chart
 - こちらのAPIを利用： https://opendata.resas-portal.go.jp/
 - rails + Vue.js + chart.js
 - クライアントだけでやろうと思ったが、APIキーをクライアントに載せたくなかったので、データ中継用にrailsを
-- vue部分の制作時間３-４時間
+- vue部分の制作時間３-４時間 : - [ChartContainer.vue](https://github.com/youmts/resas-chart/blob/master/app/javascript/containers/ChartContainer.vue),[PrefecturePopulationChart.js](https://github.com/youmts/resas-chart/blob/master/app/javascript/components/PrefecturePopulationChart.js)
 
 ## クレジットカード入力フォーム
 
@@ -49,5 +49,4 @@ https://github.com/youmts/credit-card-form
 - github actions を使って s3 にデプロイ
 - Vuelidate でバリデーション
 - カードをひっくり返すところはできていない
-- vue部分の制作時間5-6時間
-
+- vue部分の制作時間5-6時間 : [containers](https://github.com/youmts/credit-card-form/tree/master/src/containers), [components](https://github.com/youmts/credit-card-form/tree/master/src/components)
