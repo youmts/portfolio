@@ -38,7 +38,7 @@ https://github.com/youmts/atcoder
 
 <img src="https://user-images.githubusercontent.com/8408731/88469003-b2946d00-cf26-11ea-90c3-ab06f4961045.gif" width="400">
 
-### 実物(heroku, インスタンス起動にちょっと時間がかかります)
+### 実物(heroku)
 
 https://thawing-hollows-68596.herokuapp.com/
 
