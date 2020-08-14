@@ -4,8 +4,8 @@
 
 ### 画面イメージ
 
-![market-image-products](https://user-images.githubusercontent.com/8408731/90215009-56da4700-de35-11ea-9ada-fbac9283bf3a.png)
-![market-image-order](https://user-images.githubusercontent.com/8408731/90215074-87ba7c00-de35-11ea-86f7-49eb2f0f09b1.png)
+<img src="https://user-images.githubusercontent.com/8408731/90215009-56da4700-de35-11ea-9ada-fbac9283bf3a.png" width="400" style="display: inline-block;">
+<img src="https://user-images.githubusercontent.com/8408731/90215074-87ba7c00-de35-11ea-86f7-49eb2f0f09b1.png" width="400" style="display: inline-block;">
 
 ### 実物(AWS)
 
@@ -16,9 +16,10 @@ http://ec2-176-34-29-202.ap-northeast-1.compute.amazonaws.com/
 https://github.com/youmts/sample-market
 
 - rails 5.2.4.3
+- ec2 + rds
 - ちょっとややこしめの[モデル実装](https://github.com/youmts/sample-market/blob/master/app/models/order.rb)
+- CircleCIで[rspecチェック](https://github.com/youmts/sample-market/blob/master/.circleci/config.yml)
 - google-oauth2
-- CircleCIでrspecのチェック
 
 ## Atcoder 解答集
 
@@ -35,7 +36,7 @@ https://github.com/youmts/atcoder
 
 ### 画面イメージ
 
-![resas-chart-image](https://user-images.githubusercontent.com/8408731/88469003-b2946d00-cf26-11ea-90c3-ab06f4961045.gif)
+<img src="https://user-images.githubusercontent.com/8408731/88469003-b2946d00-cf26-11ea-90c3-ab06f4961045.gif" width="400">
 
 ### 実物(heroku, インスタンス起動にちょっと時間がかかります)
 
@@ -56,7 +57,7 @@ https://github.com/youmts/resas-chart
 
 ### 画面イメージ
 
-![credit-card-form-image](https://user-images.githubusercontent.com/8408731/88344054-c3ee4580-cd7d-11ea-87ce-188270da567e.gif)
+<img src="https://user-images.githubusercontent.com/8408731/88344054-c3ee4580-cd7d-11ea-87ce-188270da567e.gif" width="400">
 
 ### 実物（S3)
 
