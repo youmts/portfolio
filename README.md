@@ -1,3 +1,25 @@
+# ポートフォリオ
+
+## 買い物アプリ
+
+### 画面イメージ
+
+![market-image-products](https://user-images.githubusercontent.com/8408731/90215009-56da4700-de35-11ea-9ada-fbac9283bf3a.png)
+![market-image-order](https://user-images.githubusercontent.com/8408731/90215074-87ba7c00-de35-11ea-86f7-49eb2f0f09b1.png)
+
+### 実物(AWS)
+
+http://ec2-176-34-29-202.ap-northeast-1.compute.amazonaws.com/
+
+### ソースコード
+
+https://github.com/youmts/sample-market
+
+- rails 5.2.4.3
+- ちょっとややこしめの[モデル実装](https://github.com/youmts/sample-market/blob/master/app/models/order.rb)
+- google-oauth2
+- CircleCIでrspecのチェック
+
 ## Atcoder 解答集
 
 ### ソースコード
@@ -13,7 +35,7 @@ https://github.com/youmts/atcoder
 
 ### 画面イメージ
 
-![resas-chart-imate](https://user-images.githubusercontent.com/8408731/88469003-b2946d00-cf26-11ea-90c3-ab06f4961045.gif)
+![resas-chart-image](https://user-images.githubusercontent.com/8408731/88469003-b2946d00-cf26-11ea-90c3-ab06f4961045.gif)
 
 ### 実物(heroku, インスタンス起動にちょっと時間がかかります)
 
