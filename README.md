@@ -2,6 +2,8 @@
 
 ## 買い物アプリ
 
+Railsで作った簡単なECサイトです。
+
 ### 画面イメージ
 
 <img src="https://user-images.githubusercontent.com/8408731/90215009-56da4700-de35-11ea-9ada-fbac9283bf3a.png" width="400" style="display: inline-block;">
@@ -23,6 +25,8 @@ https://github.com/youmts/sample-market
 
 ## Atcoder 解答集
 
+プログラミングコンテストAtcoderの解答集です。
+
 ### ソースコード
 
 https://github.com/youmts/atcoder
@@ -33,6 +37,8 @@ https://github.com/youmts/atcoder
 - プログラミングコンテストなので可読性は良くない
 
 ## 都道府県別総人口のチャート表示
+
+フロントエンド(Vue.js)の勉強で作ったものです。
 
 ### 画面イメージ
 
@@ -53,7 +59,7 @@ https://github.com/youmts/resas-chart
 
 ## クレジットカード入力フォーム
 
-[フロントエンドのコーディング課題](https://qiita.com/baby-degu/items/d68e52a0727248ba2750)から。
+[フロントエンドのコーディング課題](https://qiita.com/baby-degu/items/d68e52a0727248ba2750)から、フロントエンド(Vue.js)の勉強のためにつくってみました。
 
 ### 画面イメージ
 
