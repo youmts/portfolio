@@ -9,7 +9,7 @@ Railsで作った簡単なECサイトです。
 <img src="https://user-images.githubusercontent.com/8408731/90215009-56da4700-de35-11ea-9ada-fbac9283bf3a.png" width="400" style="display: inline-block;">
 <img src="https://user-images.githubusercontent.com/8408731/90215074-87ba7c00-de35-11ea-86f7-49eb2f0f09b1.png" width="400" style="display: inline-block;">
 
-### 実物(AWS)
+### 実物(AWS)(停止中)
 
 http://ec2-176-34-29-202.ap-northeast-1.compute.amazonaws.com/
 
@@ -65,7 +65,7 @@ https://github.com/youmts/resas-chart
 
 <img src="https://user-images.githubusercontent.com/8408731/88344054-c3ee4580-cd7d-11ea-87ce-188270da567e.gif" width="400">
 
-### 実物（S3)
+### 実物（S3)(停止中)
 
 http://demo-credit-card-form.s3-website-ap-northeast-1.amazonaws.com/
 
